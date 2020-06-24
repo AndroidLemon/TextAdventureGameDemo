@@ -1,0 +1,578 @@
+------------------
+WIN!
+------------------
+ TEAM: Name: Navarre
+HP: 11/116
+Strength: 21
+Defense: 28
+Magic: 42
+Resistance: 32
+Luck: 56
+
+Name: Ogma
+HP: 188/273
+Strength: 46
+Defense: 36
+Magic: 30
+Resistance: 27
+Luck: 18
+
+Name: Merric
+HP: 218/218
+Strength: 39
+Defense: 25
+Magic: 47
+Resistance: 44
+Luck: 22
+
+
+------------------
+ENEMIES FOUGHT:Name: Chimera
+HP: 0/271
+Strength: 35
+Defense: 38
+Magic: 32
+Resistance: 28
+Luck: 25
+
+Name: Chimera
+HP: 0/208
+Strength: 35
+Defense: 28
+Magic: 37
+Resistance: 29
+Luck: 22
+
+Name: Chimera
+HP: 0/260
+Strength: 32
+Defense: 28
+Magic: 31
+Resistance: 31
+Luck: 25
+
+Name: Chimera
+HP: 0/211
+Strength: 37
+Defense: 29
+Magic: 41
+Resistance: 20
+Luck: 10
+
+------------------
+LOSS!
+------------------
+TEAM:
+
+ Name: Navarre
+HP: 0/108
+Strength: 36
+Defense: 42
+Magic: 49
+Resistance: 39
+Luck: 47
+
+Name: Ogma
+HP: 0/214
+Strength: 42
+Defense: 33
+Magic: 28
+Resistance: 16
+Luck: 14
+
+Name: Merric
+HP: 0/223
+Strength: 24
+Defense: 35
+Magic: 42
+Resistance: 36
+Luck: 23
+
+
+------------------
+ENEMIES FOUGHT:Name: Wyvern
+HP: 0/199
+Strength: 52
+Defense: 22
+Magic: 38
+Resistance: 13
+Luck: 19
+
+Name: Wyvern
+HP: 0/150
+Strength: 56
+Defense: 19
+Magic: 27
+Resistance: 18
+Luck: 16
+
+Name: Draugr
+HP: 0/268
+Strength: 40
+Defense: 35
+Magic: 14
+Resistance: 25
+Luck: 10
+
+Name: Draugr
+HP: 8/185
+Strength: 45
+Defense: 57
+Magic: 18
+Resistance: 25
+Luck: 13
+
+------------------
+WIN!
+------------------
+TEAM:
+
+Name: Navarre
+HP: 180/180
+Strength: 31
+Defense: 33
+Magic: 49
+Resistance: 14
+Luck: 40
+
+Name: Ogma
+HP: 189/296
+Strength: 45
+Defense: 33
+Magic: 17
+Resistance: 43
+Luck: 31
+
+Name: Merric
+HP: 29/169
+Strength: 17
+Defense: 16
+Magic: 42
+Resistance: 35
+Luck: 26
+
+
+------------------
+ENEMIES FOUGHT:
+
+Name: Draugr
+HP: 0/277
+Strength: 47
+Defense: 37
+Magic: 11
+Resistance: 29
+Luck: 11
+
+Name: Draugr
+HP: 0/257
+Strength: 38
+Defense: 37
+Magic: 14
+Resistance: 23
+Luck: 14
+
+Name: Draugr
+HP: 0/197
+Strength: 36
+Defense: 42
+Magic: 11
+Resistance: 29
+Luck: 12
+
+Name: Wyvern
+HP: 0/137
+Strength: 58
+Defense: 17
+Magic: 42
+Resistance: 20
+Luck: 17
+
+Name: Wyvern
+HP: 0/184
+Strength: 56
+Defense: 22
+Magic: 34
+Resistance: 23
+Luck: 19
+
+------------------
+WIN!
+------------------
+TEAM:
+
+Name: Kumquat
+HP: 0/138
+Strength: 21
+Defense: 40
+Magic: 33
+Resistance: 39
+Luck: 58
+
+Name: Ogma
+HP: 278/278
+Strength: 42
+Defense: 38
+Magic: 26
+Resistance: 42
+Luck: 17
+
+Name: Merric
+HP: 0/274
+Strength: 22
+Defense: 33
+Magic: 43
+Resistance: 36
+Luck: 14
+
+
+------------------
+ENEMIES FOUGHT:
+
+Name: Dragon
+HP: 0/228
+Strength: 43
+Defense: 42
+Magic: 54
+Resistance: 34
+Luck: 18
+
+Name: Draugr
+HP: 0/164
+Strength: 45
+Defense: 35
+Magic: 11
+Resistance: 26
+Luck: 13
+
+Name: Chimera
+HP: 0/182
+Strength: 37
+Defense: 34
+Magic: 44
+Resistance: 32
+Luck: 29
+
+Name: Direwolf
+HP: 0/230
+Strength: 45
+Defense: 35
+Magic: 33
+Resistance: 16
+Luck: 14
+
+Name: Chimera
+HP: 0/107
+Strength: 43
+Defense: 39
+Magic: 33
+Resistance: 34
+Luck: 27
+
+------------------
+WIN!
+------------------
+TEAM:
+
+Name: Navarre
+HP: 212/212
+Strength: 51
+Defense: 20
+Magic: 42
+Resistance: 25
+Luck: 48
+
+Name: Ogma
+HP: 150/282
+Strength: 39
+Defense: 31
+Magic: 34
+Resistance: 37
+Luck: 25
+
+Name: Merric
+HP: 160/215
+Strength: 35
+Defense: 32
+Magic: 41
+Resistance: 49
+Luck: 24
+
+
+------------------
+ENEMIES FOUGHT:
+
+Name: Chimera
+HP: 0/141
+Strength: 34
+Defense: 25
+Magic: 42
+Resistance: 29
+Luck: 28
+
+Name: Chimera
+HP: 0/316
+Strength: 42
+Defense: 29
+Magic: 34
+Resistance: 27
+Luck: 13
+
+Name: Wyvern
+HP: 0/123
+Strength: 48
+Defense: 18
+Magic: 39
+Resistance: 24
+Luck: 13
+
+Name: Chimera
+HP: 0/243
+Strength: 41
+Defense: 31
+Magic: 36
+Resistance: 27
+Luck: 19
+
+Name: Direwolf
+HP: 0/244
+Strength: 43
+Defense: 45
+Magic: 22
+Resistance: 14
+Luck: 24
+
+------------------
+WIN!
+------------------
+TEAM:
+
+Name: Navarre
+HP: 9/280
+Strength: 28
+Defense: 42
+Magic: 38
+Resistance: 14
+Luck: 54
+
+Name: Ogma
+HP: 45/334
+Strength: 44
+Defense: 44
+Magic: 36
+Resistance: 19
+Luck: 15
+
+Name: Merric
+HP: 0/175
+Strength: 35
+Defense: 26
+Magic: 48
+Resistance: 33
+Luck: 20
+
+
+------------------
+ENEMIES FOUGHT:
+
+Name: Draugr
+HP: 0/198
+Strength: 42
+Defense: 45
+Magic: 11
+Resistance: 18
+Luck: 10
+
+Name: Chimera
+HP: 0/334
+Strength: 39
+Defense: 36
+Magic: 42
+Resistance: 17
+Luck: 28
+
+Name: Chimera
+HP: 0/263
+Strength: 38
+Defense: 31
+Magic: 43
+Resistance: 29
+Luck: 25
+
+Name: Chimera
+HP: 0/168
+Strength: 41
+Defense: 39
+Magic: 38
+Resistance: 30
+Luck: 16
+
+Name: Direwolf
+HP: 0/226
+Strength: 38
+Defense: 38
+Magic: 17
+Resistance: 12
+Luck: 10
+
+------------------
+WIN!
+------------------
+TEAM:
+
+Name: Navarre
+HP: 0/318
+Strength: 29
+Defense: 25
+Magic: 49
+Resistance: 23
+Luck: 35
+
+Name: Ogma
+HP: 0/267
+Strength: 40
+Defense: 30
+Magic: 38
+Resistance: 21
+Luck: 10
+
+Name: Merric
+HP: 70/241
+Strength: 14
+Defense: 35
+Magic: 45
+Resistance: 49
+Luck: 21
+
+
+------------------
+ENEMIES FOUGHT:
+
+Name: Direwolf
+HP: 0/211
+Strength: 35
+Defense: 47
+Magic: 28
+Resistance: 18
+Luck: 11
+
+Name: Direwolf
+HP: 0/230
+Strength: 45
+Defense: 40
+Magic: 31
+Resistance: 14
+Luck: 24
+
+Name: Wyvern
+HP: 0/160
+Strength: 40
+Defense: 21
+Magic: 25
+Resistance: 12
+Luck: 13
+
+Name: Chimera
+HP: 0/196
+Strength: 44
+Defense: 29
+Magic: 43
+Resistance: 29
+Luck: 27
+
+Name: Wyvern
+HP: 0/148
+Strength: 45
+Defense: 23
+Magic: 27
+Resistance: 22
+Luck: 11
+
+Name: Draugr
+HP: 0/232
+Strength: 46
+Defense: 39
+Magic: 10
+Resistance: 22
+Luck: 12
+
+------------------
+WIN!
+------------------
+TEAM:
+
+Name: Navarre
+HP: 261/261
+Strength: 38
+Defense: 22
+Magic: 47
+Resistance: 34
+Luck: 39
+
+Name: Ogma
+HP: 277/287
+Strength: 39
+Defense: 45
+Magic: 33
+Resistance: 23
+Luck: 24
+
+Name: Merric
+HP: 57/214
+Strength: 14
+Defense: 25
+Magic: 42
+Resistance: 47
+Luck: 34
+
+
+------------------
+ENEMIES FOUGHT:
+
+Name: Draugr
+HP: 0/193
+Strength: 36
+Defense: 35
+Magic: 10
+Resistance: 26
+Luck: 11
+
+Name: Direwolf
+HP: 0/125
+Strength: 45
+Defense: 40
+Magic: 27
+Resistance: 14
+Luck: 18
+
+Name: Direwolf
+HP: 0/129
+Strength: 39
+Defense: 39
+Magic: 26
+Resistance: 16
+Luck: 16
+
+Name: Chimera
+HP: 0/257
+Strength: 32
+Defense: 26
+Magic: 41
+Resistance: 18
+Luck: 23
+
+Name: Draugr
+HP: 0/267
+Strength: 44
+Defense: 40
+Magic: 14
+Resistance: 19
+Luck: 13
+
+Name: Wyvern
+HP: 0/122
+Strength: 48
+Defense: 23
+Magic: 24
+Resistance: 10
+Luck: 14
+
